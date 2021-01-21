@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-
+<div class="container">
 <form class="row g-3">
   <div class="col-md-6">
     <label for="inputfistname" class="form-label">Prénom</label>
@@ -62,7 +62,7 @@
     <button type="submit" class="btn btn-primary">Envoyer</button>
   </div>
 </form>
-
+</div>
  <!--
 
 <div class="row">
