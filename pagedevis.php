@@ -6,16 +6,16 @@
   <option value="1">Escroquerie d'argent aux particuliers</option>
   <option value="2">Escroquerie d'argent aux entreprises</option>
   <option value="3">Escroquerie d'argent aux politiques</option>
-  <option value="4">Escroquerie de réputation aux particuliers</option>
-  <option value="5">Escroquerie de réputation aux entreprises</option>
-  <option value="6">Escroquerie de réputation aux politiques</option>
-  <option value="7">Escroquerie d'identité aux particuliers</option>
-  <option value="8">Escroquerie d'identité aux entreprises</option>
-  <option value="9">Escroquerie d'identité aux politiques</option>
-  <option value="10">Préstation personnelle : Nouvelle identité</option>
-  <option value="11">Préstation personnelle : Supprimer ses traces</option>
-  <option value="12">Préstation personnelle : Fausse mort</option>
-  <option value="13">Préstation personnelle : Package "Nouveau départ"</option>
+  <option value="4">Escroquerie de rÃ©putation aux particuliers</option>
+  <option value="5">Escroquerie de rÃ©putation aux entreprises</option>
+  <option value="6">Escroquerie de rÃ©putation aux politiques</option>
+  <option value="7">Escroquerie d'identitÃ© aux particuliers</option>
+  <option value="8">Escroquerie d'identitÃ© aux entreprises</option>
+  <option value="9">Escroquerie d'identitÃ© aux politiques</option>
+  <option value="10">PrÃ©station personnelle : Nouvelle identitÃ©</option>
+  <option value="11">PrÃ©station personnelle : Supprimer ses traces</option>
+  <option value="12">PrÃ©station personnelle : Fausse mort</option>
+  <option value="13">PrÃ©station personnelle : Package "Nouveau dÃ©part"</option>
 </select>
 
 <div class="row">
