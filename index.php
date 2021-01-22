@@ -12,7 +12,7 @@
   </div>
 
   <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <div class="bg-warning me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+    <div class="bg-warnings me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
       <div class="my-3 py-3">
         <h2 class="display-5">Escroquerie d'argent</h2>
         <p class="lead">Les fin de mois sont difficiles ? Nous vous proposons diverses ecroqueries qui vous permettrons de vous reposer sur vos lauriers. </p>
