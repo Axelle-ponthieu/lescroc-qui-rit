@@ -14,9 +14,9 @@
 
         <div class="container">
           <div class="carousel-caption text-start">
-            <h1>Example headline.</h1>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+            <h1>Domaine Politique</h1>
+            <p> Vous n'aimez pas les projets de lois d'un politique du moment en vue ? Contactez-nous, nous saurons mettre au grand jour ses activités du dimanche les plus sordides pour ne plus jamais entendre parler de lui..</p>
+            <p><a class="btn btn-lg btn-primary" href="pagedevis.php" role="button">Devis</a></p>
           </div>
         </div>
       </div>
@@ -25,9 +25,9 @@
 
         <div class="container">
           <div class="carousel-caption">
-            <h1>Another example headline.</h1>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+            <h1> Domaine Entreprise </h1>
+            <p>Vous souhaitez mettre sous le feu des projecteurs une petite entreprise ou bien plonger dans l'ombre une autre entreprise ? Nous avons tous les outils pour réaliser cela !</p>
+            <p><a class="btn btn-lg btn-primary" href="pagedevis.php" role="button">Devis</a></p>
           </div>
         </div>
       </div>
@@ -36,9 +36,9 @@
 
         <div class="container">
           <div class="carousel-caption text-end">
-            <h1>One more for good measure.</h1>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+            <h1>Domaine entre Particuliers</h1>
+            <p>Vous souhaitez nettoyer ou souiller la réputation d'une connaissance, ami, ennemi ou autre ? Nous seront la pour vous aider !</p>
+            <p><a class="btn btn-lg btn-primary" href="pagedevis.php" role="button">Devis</a></p>
           </div>
         </div>
       </div>
@@ -65,23 +65,23 @@
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <h2>L'escroquerie de réputation du monde politique</h2>
+        <p>La politique est un monde terrible... Une petite rumeur, un souffle seulement peut faire s'élever les plus grands des hautes sphères politiques. C'est dans ce monde curel que nous avons su nous immiscer pour pouvoir répondre à toutes vos attentes !</p>
+        <p><a class="btn btn-secondary" href="pagedevis.php" role="button">Demandez votre devis &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2>Heading</h2>
-        <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <h2>L'escroquerie de réputation pour les entreprises.</h2>
+        <p>Les entreprises conssacrent beaucoup d etemps, d'efforts et d'argents à leur notoriété. En effet autre que la qualité, la réputation d'une marque est l'un des points crucials du succès ! Et nous avons la possibilité de les influener grâce à nos escroqueries de qualité. </p>
+        <p><a class="btn btn-secondary" href="pagedevis.php" role="button">Demandez votre devis &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <h2>L'escroquerie de réputation entre particuliers</h2>
+        <p>Finalement, c'est avec n'importe quel individu que nous pouvons jouer des réputations. Grâce à internets, aux réseaux, nos méthodes sont devenus plus qualifiées que jamais !</p>
+        <p><a class="btn btn-secondary" href="pagedevis.php" role="button">Demandez votre devis &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
@@ -92,7 +92,7 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It�ll blow your mind.</span></h2>
+        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It�ll blow your mind.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
       </div>
       <div class="col-md-5">
@@ -105,7 +105,7 @@
 
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading">Oh yeah, it�s that good. <span class="text-muted">See for yourself.</span></h2>
+        <h2 class="featurette-heading">Oh yeah, it�s that good. <span class="text-muted">See for yourself.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
       </div>
       <div class="col-md-5 order-md-1">
