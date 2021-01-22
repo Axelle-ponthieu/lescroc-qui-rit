@@ -7,21 +7,43 @@
     <div class="col-6 col-md">
       <h5>Navigation</h5>
       <ul class="list-unstyled text-small">
-        <li><a class="link-secondary" href="#">Escroquerie d'argent</a></li>
-        <li><a class="link-secondary" href="#">Escroquerie de réputation</a></li>
-        <li><a class="link-secondary" href="#">Escroquerie d'identité</a></li>
-        <li><a class="link-secondary" href="#">Services personnels</a></li>
-        <li><a class="link-secondary" href="#">Demande de devis</a></li>
+        <li><a class="link-secondary" href="pageproduit-argent.php">Escroquerie d'argent</a></li>
+        <li><a class="link-secondary" href="pageproduit-réputation.php">Escroquerie de réputation</a></li>
+        <li><a class="link-secondary" href="pageproduit-identité.php">Escroquerie d'identité</a></li>
+        <li><a class="link-secondary" href="pageproduit-personnel.php">Services personnels</a></li>
+        <li><a class="link-secondary" href="pagedevis.php">Demande de devis</a></li>
       </ul>
     </div>
-    
     <div class="col-6 col-md">
-      <h5>Resources</h5>
+      <h5>Escroquerie d'argent</h5>
       <ul class="list-unstyled text-small">
-        <li><a class="link-secondary" href="#">Business</a></li>
-        <li><a class="link-secondary" href="#">Education</a></li>
-        <li><a class="link-secondary" href="#">Government</a></li>
-        <li><a class="link-secondary" href="#">Gaming</a></li>
+        <li><a class="link-secondary" href="#">Particuliers</a></li>
+        <li><a class="link-secondary" href="#">Entreprises</a></li>
+        <li><a class="link-secondary" href="#">Politiques</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md">
+      <h5>Escroquerie de réputation</h5>
+      <ul class="list-unstyled text-small">
+      <li><a class="link-secondary" href="#">Particuliers</a></li>
+        <li><a class="link-secondary" href="#">Entreprises</a></li>
+        <li><a class="link-secondary" href="#">Politiques</a></li>
+      </ul>
+    </div> <div class="col-6 col-md">
+      <h5>Escroquerie d'identité</h5>
+      <ul class="list-unstyled text-small">
+      <li><a class="link-secondary" href="#">Particuliers</a></li>
+        <li><a class="link-secondary" href="#">Entreprises</a></li>
+        <li><a class="link-secondary" href="#">Politiques</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md">
+      <h5>Services personnels</h5>
+      <ul class="list-unstyled text-small">
+        <li><a class="link-secondary" href="#">Nouvelle identité</a></li>
+        <li><a class="link-secondary" href="#">Supprimer ses traces</a></li>
+        <li><a class="link-secondary" href="#">Fausse mort</a></li>
+        <li><a class="link-secondary" href="#">Package "Nouveau départ"</a></li>
       </ul>
     </div>
     <div class="col-6 col-md">
