@@ -59,6 +59,9 @@
       <li class="nav-item">
           <a class="nav-link" href="pageproduit-personnel.php">Escroqueries personnelles</a>
       </li>
+      <li class="nav-item">
+          <a class="nav-link" href="pagedevis.php">Demande de devis</a>
+      </li>
 
       </li>
     </ul>
