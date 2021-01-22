@@ -161,3 +161,16 @@ body {
     margin-top: 7rem;
   }
 }
+.titre-devis {
+  text-align: center;
+}
+.container-devis {
+  border-radius: 20px;
+  background-color: #FFC107;
+}
+
+.corps-devis {
+  padding: 10px;
+  margin: 10px;
+  width: 80%;
+}
