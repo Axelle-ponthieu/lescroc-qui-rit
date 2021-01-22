@@ -32,14 +32,14 @@
     <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div class="my-3 p-3">
         <h2 class="display-5">Escorquerie d'identité</h2>
-        <p class="lead">Quoi de plus simple pour vivre la vie de votre voisin qui part tous les mois en vacances que de prendre sa place ? Travailler pour obtenir � ses fins ne sera d�sormais plus necessaire, profitez du succes des autres !</p>
+        <p class="lead">Quoi de plus simple pour vivre la vie de votre voisin qui part tous les mois en vacances que de prendre sa place ? Travailler pour obtenir à ses fins ne sera désormais plus necessaire, profitez du succes des autres !</p>
       </div>
       <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
     </div>
     <div class="bg-warning me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
       <div class="my-3 py-3">
         <h2 class="display-5">Escroquerie Service Personnel</h2>
-        <p class="lead">Nous vous proposons enfin toutes les possibilités pour démarrer une nouvelle vie. Faire dispara�tre vos traces, simuler votre mort et vous cr�er une nouvelle identite, vous aurez toutes les cartes en mains pour d�marrer votre nouvelle vie. </p>
+        <p class="lead">Nous vous proposons enfin toutes les possibilités pour démarrer une nouvelle vie. Faire disparaitre vos traces, simuler votre mort et vous créer une nouvelle identite, vous aurez toutes les cartes en mains pour démarrer votre nouvelle vie. </p>
       </div>
       <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
     </div>
