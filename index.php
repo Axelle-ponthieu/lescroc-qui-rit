@@ -17,7 +17,7 @@
         <h2 class="display-5">Escroquerie d'argent</h2>
         <p class="lead">Les fin de mois sont difficiles ? Nous vous proposons diverses ecroqueries qui vous permettrons de vous reposer sur vos lauriers. </p>
       </div>
-      <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
+      <div class="bg-warning shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
     </div>
     <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div class="my-3 p-3">
