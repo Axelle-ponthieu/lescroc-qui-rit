@@ -5,25 +5,16 @@
       <small class="d-block mb-3 text-muted">&copy; 2017-2020</small>
     </div>
     <div class="col-6 col-md">
-      <h5>Features</h5>
+      <h5>Navigation</h5>
       <ul class="list-unstyled text-small">
-        <li><a class="link-secondary" href="#">Cool stuff</a></li>
-        <li><a class="link-secondary" href="#">Random feature</a></li>
-        <li><a class="link-secondary" href="#">Team feature</a></li>
-        <li><a class="link-secondary" href="#">Stuff for developers</a></li>
-        <li><a class="link-secondary" href="#">Another one</a></li>
-        <li><a class="link-secondary" href="#">Last time</a></li>
+        <li><a class="link-secondary" href="#">Escroquerie d'argent</a></li>
+        <li><a class="link-secondary" href="#">Escroquerie de réputation</a></li>
+        <li><a class="link-secondary" href="#">Escroquerie d'identité</a></li>
+        <li><a class="link-secondary" href="#">Services personnels</a></li>
+        <li><a class="link-secondary" href="#">Demande de devis</a></li>
       </ul>
     </div>
-    <div class="col-6 col-md">
-      <h5>Resources</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="link-secondary" href="#">Resource name</a></li>
-        <li><a class="link-secondary" href="#">Resource</a></li>
-        <li><a class="link-secondary" href="#">Another resource</a></li>
-        <li><a class="link-secondary" href="#">Final resource</a></li>
-      </ul>
-    </div>
+    
     <div class="col-6 col-md">
       <h5>Resources</h5>
       <ul class="list-unstyled text-small">
