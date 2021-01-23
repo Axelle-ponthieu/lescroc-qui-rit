@@ -42,7 +42,9 @@
   <title>Document</title>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
 <div class="container-fluid">
-  <a class="navbar-brand" href="index.php">L'escroc qui rit</a>
+
+  <img style=max-width:100px; margin-top: -7px;
+src=Images/logo.jpg>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -58,9 +60,6 @@
         <a class="nav-link" href="pageproduit-réputation.php">Escroqueries de réputation</a>
       <li class="nav-item">
           <a class="nav-link" href="pageproduit-personnel.php">Escroqueries personnelles</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="pagedevis.php">Demande de devis</a>
       </li>
 
       </li>
