@@ -10,7 +10,7 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+      <img src="https://media.lactualite.com/2020/04/edbaee1e-040-temps-nouveaux-lat05-1200x675.jpg" alt="Carrousel slide 1" class="d-block w-100">
 
         <div class="container">
           <div class="carousel-caption text-start">
@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+        <img src="https://media.gettyimages.com/vectors/business-people-standing-in-interview-queue-concept-business-vector-vector-id697912694" alt="Carrousel slide 1" class="d-block w-100">
 
         <div class="container">
           <div class="carousel-caption">
@@ -32,7 +32,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+        <img src="https://us.123rf.com/450wm/rudzhan/rudzhan2003/rudzhan200300071/142927105-stock-vector-hotel-doorman-showing-the-room-for-new-visitors.jpg?ver=6" alt="Carrousel slide 1" class="d-block w-100">
 
         <div class="container">
           <div class="carousel-caption text-end">

@@ -46,15 +46,6 @@
         <li><a class="link-secondary" href="#">Package "Nouveau départ"</a></li>
       </ul>
     </div>
-    <div class="col-6 col-md">
-      <h5>About</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="link-secondary" href="#">Team</a></li>
-        <li><a class="link-secondary" href="#">Locations</a></li>
-        <li><a class="link-secondary" href="#">Privacy</a></li>
-        <li><a class="link-secondary" href="#">Terms</a></li>
-      </ul>
-    </div>
   </div>
 </footer>
 </body>
