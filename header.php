@@ -50,8 +50,11 @@ src=Images/logo.jpg>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="index.php">Acceuil</a>
+      </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="pageproduit-argent.php">Escroqueries d'argent</a>
+        <a class="nav-link" aria-current="page" href="pageproduit-argent.php">Escroqueries d'argent</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="pageproduit-identité.php">Escroqueries d'identité</a>
@@ -60,6 +63,9 @@ src=Images/logo.jpg>
         <a class="nav-link" href="pageproduit-réputation.php">Escroqueries de réputation</a>
       <li class="nav-item">
           <a class="nav-link" href="pageproduit-personnel.php">Escroqueries personnelles</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" href="pagedevis.php">Demande de devis</a>
       </li>
 
       </li>
